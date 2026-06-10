@@ -1,7 +1,0 @@
-,,,,, Basic COUNTIF,,,,
-,,,,,,,,,
-(1).,How many rows in the dataset belong to the retail channel?,,,,,,,,
-,63688,,,,,,,,
-,,,,,,,,,
-(2).,"How many rows have a promotion_flag of 1 ( i.e, promotions were active) ?",,,,,,,,
-,28461,,,,,,,,
